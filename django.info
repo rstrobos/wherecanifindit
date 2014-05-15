@@ -1,0 +1,12 @@
+http:///rstrobos.scripts.mit.edu/wherecanifindit
+username: colinreinier
+password: 529crossroads
+
+SQL info
+/mit/rstrobos/web_scripts/wherecanifindit
+
+project located
+/mit/rstrobos/Scripts/django/wherecanifindit
+
+to access manage.py: ssh -k rstrobos@scripts
+
